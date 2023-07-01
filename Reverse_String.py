@@ -1,3 +1,3 @@
-s=input()
-a=s.split()[::-1]
-print(' '.join(a))
+n=input()
+a=str(n)[::-1]
+print(a)
